@@ -11,8 +11,8 @@ public class UserService implements Users {
 
   private final IGraphServiceClient graphClient;
 
-  public UserService(IGraphServiceClient graphClient) {
-    this.graphClient = graphClient;
+  public UserService(IGraphServiceClient applicationGraphClient) {
+    this.graphClient = applicationGraphClient;
   }
 
   @Override
