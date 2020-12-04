@@ -3,10 +3,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.pan</groupId>
+    <groupId>io.pan.graphapi</groupId>
     <artifactId>graph-api-demo</artifactId>
     <version>1.0.0</version>
-    <name>graph-api-demo</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
